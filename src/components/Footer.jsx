@@ -5,7 +5,7 @@ let currentYear = today.getFullYear();
 
 function Footer(){
     return (
-        <p>Made with by Leksyking {currentYear}</p>
+        <p>copywright &nbsp; {currentYear}</p>
     )
 }
 
